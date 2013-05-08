@@ -1,4 +1,4 @@
-Under construction.
+<h1>Under construction.</h1>
 
 The goal of this program is to improve my python skills. Don't hesitate to make a suggestion to make it better (my skills and the program, of course).
 
